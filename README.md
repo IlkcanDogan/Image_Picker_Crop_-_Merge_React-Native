@@ -1,1 +1,1 @@
-# Image_Picker_Crop_-_Merge_React-Native
+Image_Picker_Cropper_React-Native
